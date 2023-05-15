@@ -6,3 +6,5 @@ The game does not actual winner theme.You can simply collect many green flags yo
 
 
 Link of the game ->  www.redgreenflaggame.eu5.org
+
+![image](https://github.com/ebrarsipal/redgreenflaggame/assets/93128149/98826ce9-95f3-42e5-860e-51519f25e0b2)
